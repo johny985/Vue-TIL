@@ -1,6 +1,6 @@
 <template>
   <div>
-    Page not defined
+    Page not defined!
   </div>
 </template>
 
